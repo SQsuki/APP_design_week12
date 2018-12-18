@@ -41,3 +41,57 @@
   width:840px;
   word-wrap:break-word;
 }
+#u1_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:301px;
+  height:61px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:92px;
+  top:300px;
+  width:300px;
+  height:60px;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u1_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:296px;
+  word-wrap:break-word;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:61px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:92px;
+  top:380px;
+  width:359px;
+  height:60px;
+  font-size:36px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u2_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:355px;
+  word-wrap:break-word;
+}
